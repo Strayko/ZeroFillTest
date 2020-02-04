@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea3005d3-c9e3-4e2a-87ad-83425c971df5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XI2lslj1cfFqNnXmBfaQ1iWEkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="stack" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="stack" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StackTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StackTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stack" />
+      <option name="MAIN_CLASS_NAME" value="stack.StackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.StackTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea3005d3-c9e3-4e2a-87ad-83425c971df5" name="Default Changelist" comment="" />
+      <created>1580719441475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580719441475</updated>
+      <workItem from="1580719444988" duration="7818000" />
+      <workItem from="1580732766643" duration="54000" />
+      <workItem from="1580732853925" duration="6000" />
+      <workItem from="1580741156521" duration="5292000" />
+      <workItem from="1580765919274" duration="2746000" />
+      <workItem from="1580802441734" duration="2611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" width="816" height="729" key="#Intentions" timestamp="1580721164990">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" width="816" height="729" key="#Intentions/0.0.1600.860@0.0.1600.860" timestamp="1580721164990" />
+    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser" timestamp="1580746857706">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="140" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1580746857706" />
+    <state x="502" y="183" key="#com.intellij.refactoring.memberPullUp.PullUpDialog" timestamp="1580746483569">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="502" y="183" key="#com.intellij.refactoring.memberPullUp.PullUpDialog/0.0.1600.860@0.0.1600.860" timestamp="1580746483569" />
+    <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1580747844952">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1580747844952" />
+    <state width="1396" height="167" key="GridCell.Tab.0.bottom" timestamp="1580806378740">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="167" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580806378740" />
+    <state width="1396" height="167" key="GridCell.Tab.0.center" timestamp="1580806378740">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="167" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580806378740" />
+    <state width="1396" height="167" key="GridCell.Tab.0.left" timestamp="1580806378740">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="167" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580806378740" />
+    <state width="1396" height="167" key="GridCell.Tab.0.right" timestamp="1580806378740">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="167" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580806378740" />
+    <state x="504" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580719733715">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="504" y="324" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1580719733715" />
+    <state x="494" y="56" width="607" height="804" key="find.popup" timestamp="1580806056299">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="494" y="56" width="607" height="804" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1580806056299" />
+    <state x="182" y="51" key="new project wizard" timestamp="1580747855445">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="182" y="51" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1580747855445" />
+    <state x="454" y="212" key="run.anything.popup" timestamp="1580805890138">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="454" y="212" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1580805890138" />
+    <state x="461" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1580805892747">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="461" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1580805892747" />
+  </component>
+</project>
